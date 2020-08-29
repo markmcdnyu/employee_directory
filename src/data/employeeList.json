@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "img": "",
+        "firstName": "Erik",
+        "lastName": "De Luna",
+        "email": "Erik@email.com",
+        "type": "Software Developer"
+    },
+    {
+        "id": 2,
+        "img": "",
+        "firstName": "Dale",
+        "lastName": "Kittendorf",
+        "email": "dale@email.com",
+        "type": "Music Supervisor"
+    },
+    {
+        "id": 3,
+        "img": "",
+        "firstName": "Jeff",
+        "lastName": "Cartagena",
+        "email": "Jeff@email.com",
+        "type": "React Guru"
+    },
+    {
+        "id": 4,
+        "img": "",
+        "firstName": "Molly",
+        "lastName": "Gilbert",
+        "email": "Molly@email.com",
+        "type": "Notion Expert"
+    },
+    {
+        "id": 5,
+        "img": "",
+        "firstName": "Jonathan",
+        "lastName": "Bentley",
+        "email": "Jonathan@mail.com",
+        "type": "Security Engineer"
+    },
+    {
+        "id": 6,
+        "img": "",
+        "firstName": "Manny",
+        "lastName": "Moses",
+        "email": "Manny@email.com",
+        "type": "Software Developer"
+    },
+    {
+        "id": 7,
+        "img": "",
+        "firstName": "Tyler",
+        "lastName": "D'Angelo",
+        "email": "Tyler@email.com",
+        "type": "Bulma Expert"
+    },
+    {
+        "id": 8,
+        "img": "",
+        "firstName": "Lia",
+        "lastName": "Graham",
+        "email": "Lia@mail.com",
+        "type": "Software Developer"
+    },
+    {
+        "id": 9,
+        "img": "",
+        "firstName": "Rachel",
+        "lastName": "Adu",
+        "email": "Rachel@email.com",
+        "type": "Analyst"
+    },
+    {
+        "id": 10,
+        "img": "",
+        "firstName": "Alba",
+        "lastName": "Osmanaj",
+        "email": "Alba@email.com",
+        "type": "Software Developer"
+    },
+    {
+        "id": 11,
+        "img": "",
+        "firstName": "Carmen",
+        "lastName": "Johnson",
+        "email": "Carmen@email.com",
+        "type": "Software Developer"
+    },
+    {
+        "id": 12,
+        "img": "",
+        "firstName": "Samir",
+        "lastName": "Bello",
+        "email": "Samir@email.com",
+        "type": "Operations Analyst"
+    },
+    {
+        "id": 13,
+        "img": "",
+        "firstName": "Evan",
+        "lastName": "Boswood",
+        "email": "Evan@email.com",
+        "type": "Network Engineer"
+    },
+    {
+        "id": 14,
+        "img": "",
+        "firstName": "Alex",
+        "lastName": "Saint Victor",
+        "email": "Alex@email.com",
+        "type": "Software Engineer"
+    },
+    {
+        "id": 15,
+        "img": "",
+        "firstName": "Austin",
+        "lastName": "Walker",
+        "email": "Austin@email.com",
+        "type": "Human Resources"
+    },
+    {
+        "id": 16,
+        "img": "",
+        "firstName": "Gwen",
+        "lastName": "Sanabria",
+        "email": "Gwen@email.com",
+        "type": "Marketing"
+    },
+    {
+        "id": 17,
+        "img": "",
+        "firstName": "Sabrina",
+        "lastName": "Hollett",
+        "email": "Sabrina@email.com",
+        "type": "Software Developer"
+    },
+    {
+        "id": 18,
+        "img": "",
+        "firstName": "Antonio",
+        "lastName": "Gage",
+        "email": "Antonio@email.com",
+        "type": "React Guru"
+    },
+    {
+        "id": 19,
+        "img": "",
+        "firstName": "Ariel",
+        "lastName": "Cuesta",
+        "email": "Ariel@email.com",
+        "type": "Database Engineer"
+    },
+    {
+        "id": 20,
+        "img": "",
+        "firstName": "Nicole",
+        "lastName": "Davenport",
+        "email": "Nicole@email.com",
+        "type": "Software Developer"
+    }
+]
