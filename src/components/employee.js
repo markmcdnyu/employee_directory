@@ -14,7 +14,9 @@ function employee(props) {
                             <div id="name"><b>Name: </b>{result.firstName} {result.lastName}
                                 <br></br>
                                 <b>Title: </b> {result.type}</div>
-                            <div id="other"><i>Contact:</i> {result.email} </div>
+                            <div id="other"><i>Email: </i> {result.email}
+                                <br></br>
+                                <i>Phone Number: </i> {result.phone}</div>
                         </li>
                     ))}
                 </ul >
