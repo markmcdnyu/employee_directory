@@ -3,6 +3,7 @@
 ## Overview
 
 For this application, I created an employee directory with React. 
+Employee Directory [live link](https://markmcdnyu.github.io/employee_directory/)
 
 ## User Story
 
