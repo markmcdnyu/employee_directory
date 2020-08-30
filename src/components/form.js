@@ -7,7 +7,8 @@ function Form(props) {
     return (
         <div>
             <h1>Employee Directory</h1>
-            <h3>Enter first name below and click the 'Sort Names' button to view the full list of names!</h3>
+            <h3>Enter a first name below and click 'Submit'</h3>
+            <h3>Or Enter click the 'Sort Names' button to sort</h3>
 
             <div class="entertext">
                 <form className="form">
@@ -17,7 +18,7 @@ function Form(props) {
                         name="firstName"
                         onChange={props.handleInputChange}
                         type="text"
-                        placeholder="Name are case sensitive!"
+                        placeholder="Names are case sensitive!"
                     />
                     <br></br>
                     <button onClick={props.handleFormSubmit}>Submit</button>

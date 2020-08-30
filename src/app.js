@@ -64,6 +64,8 @@ class App extends Component {
 
                 <button onClick={this.sortName}>Sort Names A to Z</button>
 
+                <Employee employeeList={this.state.sorted} />
+
             </div>
         )
     }
