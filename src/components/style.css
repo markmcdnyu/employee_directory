@@ -22,6 +22,11 @@ h3{
     font-size: 20px;
 }
 
+h5{
+    text-align: center;
+    font-size: 16px;
+}
+
 .list-group-item{
     margin: 8px;
     border-radius: 10px;

@@ -6,9 +6,10 @@ function Form(props) {
 
     return (
         <div>
+            <br></br>
             <h1>Employee Directory</h1>
-            <h3>Enter a first name below and click 'Submit'</h3>
-            <h3>Or Enter click the 'Sort Names' button to sort</h3>
+            <br></br>
+            <h3>Enter an employee's first name below and click 'Find'</h3>
 
             <div class="entertext">
                 <form className="form">
@@ -24,6 +25,8 @@ function Form(props) {
                     <button onClick={props.handleFormSubmit}>Find</button>
                 </form>
             </div>
+            <br></br>
+            <h5>Or click the 'Sort Names' button to sort employees alphabetically</h5>
         </div>
     );
 
