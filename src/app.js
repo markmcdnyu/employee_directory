@@ -52,7 +52,21 @@ class App extends Component {
         this.setState({ sorted: sortof })
     }
 
+    render() {
+        return (
+            <div stylle="text-align: center">
+                <Form
+                    firstName={this.state.firstName}
+                    lastName={this.state.lastName}
+                    handleInputChange={this.handleInputChange}
+                    handleFormSubmit={this.handleFormSubmit}
+                />
 
+                <button onClick={this.sortName}>Sort Names A to Z</button>
+
+            </div>
+        )
+    }
 
 }
 
