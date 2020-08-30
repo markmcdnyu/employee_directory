@@ -18,10 +18,10 @@ function Form(props) {
                         name="firstName"
                         onChange={props.handleInputChange}
                         type="text"
-                        placeholder="Names are case sensitive!"
+                        placeholder="Names - case sensitive"
                     />
                     <br></br>
-                    <button onClick={props.handleFormSubmit}>Submit</button>
+                    <button onClick={props.handleFormSubmit}>Find</button>
                 </form>
             </div>
         </div>

@@ -11,7 +11,9 @@ function employee(props) {
 
                     {props.employeeList.map(result => (
                         <li className="list-group-item" key={result.id}>
-                            <div id="name"><b>{result.firstName} {result.lastName}</b> ({result.type})</div>
+                            <div id="name"><b>Name: </b>{result.firstName} {result.lastName}
+                                <br></br>
+                                <b>Title: </b> {result.type}</div>
                             <div id="other"><i>Contact:</i> {result.email} </div>
                         </li>
                     ))}
